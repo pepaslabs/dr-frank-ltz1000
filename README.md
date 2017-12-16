@@ -16,4 +16,4 @@ My recreation of the schematic in kicad: [pdf](kicad/releases/v1/drfrank-ltz1000
 
 Dr. Frank's board layout: [jpg](media/LTZ_board.jpg)
 
-I recreated his board layout by importing the jpg of his board design into kicad and matching the layout: [png](media/Screen Shot 2017-12-16 at 2.52.52 AM)
+I recreated his board layout by importing the jpg of his board design into kicad and matching the layout: [png](media/Screen%20Shot%202017-12-16%20at%202.52.52%20AM)
