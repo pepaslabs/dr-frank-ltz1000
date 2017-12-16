@@ -19,3 +19,5 @@ Dr. Frank's board layout: [jpg](media/LTZ_board.jpg)
 I recreated his board layout by importing the jpg of his board design into kicad and matching the layout: [png](media/Screen%20Shot%202017-12-16%20at%202.52.52%20AM)
 
 My post to the EEVBlog forum about this recreation: [link](http://www.eevblog.com/forum/metrology/ultra-precision-reference-ltz1000/msg1376260/#msg1376260)
+
+See also: https://github.com/pepaslabs/px-ref 
