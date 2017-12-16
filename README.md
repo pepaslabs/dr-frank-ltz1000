@@ -4,6 +4,8 @@ This is Dr. Frank's LTZ1000-based 10V reference design.
 
 ![](kicad/releases/v1/top.png)
 
+![](kicad/releases/v1/bottom.png)
+
 You can order a copy of this board from OSHPark here: [link](https://oshpark.com/shared_projects/aF98MB4w)
 
 Alternatively, you can use the gerber files to have the board made somewhere else: [gerbers.zip](kicad/releases/v1/gerbers.zip)
